@@ -80,17 +80,11 @@ EVSAL is a web application designed to bridge the gap between medics and patient
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Contact
 
 For questions or feedback, please contact:
 - **Email**: pastorsalesalex@gmail.com
-- **GitHub**: [yourusername](https://github.com/apastorsales)
+- **GitHub**: [apastorsales](https://github.com/apastorsales)
 
 ---
 
